@@ -56,7 +56,7 @@ h6 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #4F84C4;
+    background: teal;
     color: #ffffff;
     width: 45px;
     height: 45px;
@@ -105,8 +105,8 @@ h6 {
 
 #nav .navbar-brand img {
     position: absolute;
-    max-height: 60px;
-    margin-top: -27px;
+    max-height: 80px;
+    margin-top: -40px;
     transition: all .5s;
 }
 
@@ -141,7 +141,7 @@ h6 {
 @media (min-width: 768px) {
     #nav,
     #nav .navbar {
-        background: rgba(0, 0, 0, 1) !important;
+        background: teal !important;
     }
     
     #nav a.nav-link {
@@ -254,7 +254,7 @@ h6 {
 }
 
 .section-header h2 {
-    color: #666666;
+    color: teal;
     font-size: 35px;
     font-weight: 700;
     text-transform: uppercase;
@@ -324,6 +324,7 @@ h6 {
 .single .single-content h2 {
     font-size: 25px;
     font-weight: 700;
+color: teal;
 }
 
 .about .about-content p,
@@ -368,7 +369,7 @@ h6 {
     position: relative;
     width: 100%;
     padding: 30px 15px;
-    background: #4F84C4;
+    background: teal;
 }
 
 .service .service-icon i {
@@ -389,6 +390,7 @@ h6 {
     font-size: 18px;
     font-weight: 700;
     line-height: 24px;
+color: teal;
     letter-spacing: 1px;
     text-transform: capitalize;
 }
@@ -405,7 +407,7 @@ h6 {
 .call-to-action {
     position: relative;
     padding: 90px 0;
-    background: #4F84C4;
+    background: teal;
 }
 
 .call-to-action .container {
@@ -1029,7 +1031,7 @@ h6 {
 }
 
 .footer .footer-top {
-    background: #222222;
+    background: teal;
     padding: 60px 0 30px 0;
 }
 
